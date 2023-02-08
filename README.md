@@ -1,6 +1,3 @@
 # Proyecto-Arigatas
 
-Integrantes :
-
-usuario1 
-usuario2
+# Este va a ser mi proyecto de prueba XD
