@@ -28,12 +28,14 @@ Bye 💋
 
 Una empresa de recursos humanos nos ha contratado para elaborar un programa que le ayude a almacenar los candidatos nuevos de la empresa. Deben ser ingresados con los siguientes datos:
 
-## - Nombres
+ - Nombres
 
-## - Apellidos
+ - Apellidos
 
-## - Cédula
+ - Cédula
 
-## - Edad
+ - Edad
 
-## - Cargo
+ - Cargo
+
+Además de poder crearlos, debe poder eliminarlos, listarlos y modificarlos. Todo estodebe llevar el patrón MVC, Clases DAO Y DTO y Serializado
