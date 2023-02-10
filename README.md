@@ -1,6 +1,5 @@
-\begin{center}
+
 # La Vida Oculta De Arekusandora 🧛
-\end{center}
 
 # Holi Al Que Esté En Mi Repositorio :3
 
