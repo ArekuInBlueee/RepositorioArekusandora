@@ -1,4 +1,4 @@
-#<div style="text-align: center"> La Vida Oculta De Arekusandora 🧛 #<div/>
+<div style="text-align: center"> La Vida Oculta De Arekusandora 🧛 <div/>
 
 # Holi Al Que Esté En Mi Repositorio :3
 
