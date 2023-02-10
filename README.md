@@ -17,7 +17,7 @@ Por eso les voy a hablar de mi banda favorita en todo el mundo...
 
 No mentiras :v 
 
-La verdad, no les voy a hablar de ellos, ni de nadie, este es un ReadMe serio, para explicarte un poco el sobre el proyecto que acabo de hacer en conjuto con mi amix  y compañera [Natalia Vergara](https://github.com/NatVerB).
+La verdad, no les voy a hablar de ellos, ni de nadie, este es un ReadMe serio, para explicarte un poco sobre el proyecto que acabo de hacer en conjuto con mi amiga  y compañera [Natalia Vergara](https://github.com/NatVerB).
 
 Estoy Aprendiendo Cositas :D Entonces voy a probar muchas cosas randoms...
 
@@ -25,3 +25,15 @@ Bye 💋
 
 -------------------------------------------------------------------------------------------------------------------
 # Recursos Humanos
+
+Una empresa de recursos humanos nos ha contratado para elaborar un programa que le ayude a almacenar los candidatos nuevos de la empresa. Deben ser ingresados con los siguientes datos:
+
+## - Nombres
+
+## - Apellidos
+
+## - Cédula
+
+## - Edad
+
+## - Cargo
