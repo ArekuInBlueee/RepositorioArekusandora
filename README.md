@@ -1,5 +1,4 @@
- 
-# La Vida Oculta De Arekusandora 🧛
+<p style="text-align: justify;"># La Vida Oculta De Arekusandora 🧛</p>
 
 # Holi Al Que Esté En Mi Repositorio :3
 
