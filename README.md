@@ -1,4 +1,4 @@
-# Arekusandora Y Su Obsesionado Gusto Por Pierce The Veil
+# La Vida Oculta De Arekusandora 🧛
 
 # Holi Al Que Esté En Mi Repositorio :3
 
@@ -13,3 +13,6 @@ Por eso les voy a hablar de mi banda favorita en todo el mundo...
 ------------------------------------------------------------------------------------------------------------------
 
 # Los Tigres Del Norte😍
+
+No mentiras :v, La verdad, no les voy a hablar mucho de ellos, ni de nadie, tengo flojera.
+Pero me quedó bonito...🥱
