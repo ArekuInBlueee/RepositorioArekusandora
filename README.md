@@ -12,7 +12,6 @@ Por eso les voy a hablar de mi banda favorita en todo el mundo...
 ![Pierce The Veil Son el amor de mi vida](https://i.pinimg.com/564x/50/50/30/505030940dd9b95511c5ca0fb5912991.jpg)
 
 ------------------------------------------------------------------------------------------------------------------
-
 # Los Tigres Del Norte😍
 
 No mentiras :v 
@@ -22,7 +21,6 @@ La verdad, no les voy a hablar de ellos, ni de nadie, este es un ReadMe serio, p
 Estoy Aprendiendo Cositas :D Entonces voy a probar muchas cosas randoms...
 
 Bye 💋
-
 -------------------------------------------------------------------------------------------------------------------
 # Recursos Humanos
 
@@ -38,4 +36,5 @@ Una empresa de recursos humanos nos ha contratado para elaborar un programa que 
 
  - Cargo
 
-Además de poder crearlos, debe poder eliminarlos, listarlos y modificarlos. Todo estodebe llevar el patrón MVC, Clases DAO Y DTO y Serializado
+Además de poder crearlos, debe poder eliminarlos, listarlos y modificarlos. Todo esto 
+debe llevar el patrón MVC, Clases DAO Y DTO y Serializado
