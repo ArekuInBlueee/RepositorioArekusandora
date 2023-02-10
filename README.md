@@ -1,5 +1,6 @@
 <p align="center">
 # La Vida Oculta De Arekusandora 🧛
+</p>
 
 # Holi Al Que Esté En Mi Repositorio :3
 
