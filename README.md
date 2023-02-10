@@ -15,8 +15,13 @@ Por eso les voy a hablar de mi banda favorita en todo el mundo...
 
 # Los Tigres Del Norte😍
 
-No mentiras :v La verdad, no les voy a hablar mucho de ellos, ni de nadie, este es un ReadMe serio para explicar el proyecto que acabo de hacer en conjuto con mi amix [Natalia Vergara](https://github.com/NatVerB).
+No mentiras :v 
+
+La verdad, no les voy a hablar mucho de ellos, ni de nadie, este es un ReadMe serio, para explicar el proyecto que acabo de hacer en conjuto con mi amix [Natalia Vergara](https://github.com/NatVerB).
 
 Estoy Aprendiendo Cositas :D Entonces voy a probar muchas cosas randoms...
 
 Bye 💋
+
+-------------------------------------------------------------------------------------------------------------------
+# Recursos Humanos
