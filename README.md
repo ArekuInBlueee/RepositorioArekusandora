@@ -37,4 +37,4 @@ Una empresa de recursos humanos nos ha contratado para elaborar un programa que 
  - Cargo
 
 Además de poder crearlos, debe poder eliminarlos, listarlos y modificarlos. Todo esto 
-debe llevar el patrón MVC, Clases DAO Y DTO y Serializado
+debe llevar el patrón MVC, Clases DAO Y DTO y Serializado.
