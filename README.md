@@ -1,4 +1,6 @@
-                                                               # La Vida Oculta De Arekusandora 🧛
+\begin{center}
+# La Vida Oculta De Arekusandora 🧛
+\end{center}
 
 # Holi Al Que Esté En Mi Repositorio :3
 
@@ -12,7 +14,7 @@ Por eso les voy a hablar de mi banda favorita en todo el mundo...
 
 ------------------------------------------------------------------------------------------------------------------
 # Los Tigres Del Norte😍
-
+ 
 No mentiras :v 
 
 La verdad, no les voy a hablar de ellos, ni de nadie, este es un ReadMe serio, para explicarte un poco sobre el proyecto que acabo de hacer en conjuto con mi amiga  y compañera [Natalia Vergara](https://github.com/NatVerB).
