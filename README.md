@@ -15,5 +15,8 @@ Por eso les voy a hablar de mi banda favorita en todo el mundo...
 
 # Los Tigres Del Norte😍
 
-No mentiras :v, La verdad, no les voy a hablar mucho de ellos, ni de nadie, tengo flojera.
-Pero me quedó bonito...🥱
+No mentiras :v La verdad, no les voy a hablar mucho de ellos, ni de nadie, tengo flojera.
+
+Estoy Aprendiendo Cositas :D Entonces voy a probar muchas cosas randoms...
+
+Bye 💋
